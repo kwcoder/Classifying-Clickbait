@@ -15,4 +15,4 @@ This project systematically compares the accuracy of various combinations of sup
   * Results Visualisation
   * Written Report
 
-I plan to divide this repository into two branches: one containing the original project submission and another for the improved, extended version.
+I plan to divide this repository into two branches: one containing the original project submission (/original_submission) and another for the improved, extended version (/main).
