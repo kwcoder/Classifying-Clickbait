@@ -4,7 +4,7 @@ This repository contains the files submitted for my Individual Research Project 
 **Project Summary**
 
 This project systematically compares the accuracy of various combinations of supervised learning models and vectorisation techniques. The analysis is applied to a dataset of similar headlines discussing the same event but from different temporal perspectives and with varying focuses. 
-
+  
 **Contents**
 
   * Data Cleaning
