@@ -7,7 +7,7 @@ This project systematically compares the accuracy of various combinations of sup
   
 **Contents**
 
-  * Data Cleaning
+  * Data Wrangling
   * Data Inspection
   * Data Preprocessing
   * Vectorisation techniques
